@@ -1,0 +1,55 @@
+body{
+    background-color: #9db5a1;
+}
+
+
+.row{   
+
+    background-color:#59685c;
+    color:#c5dbca;
+    font-size:30px;
+   font-family: 'Poiret One', cursive;
+   text-align: center;
+   font-weight: bold
+}
+
+#trees{ 
+    width: 100%;
+}
+
+.headshot{
+    width: 25%;
+    border: 6px ridge #2e3d30;
+    margin: 60px;
+    border-radius: 50%;
+ 
+}
+
+span{
+    margin: 40px;
+}
+
+img:hover{
+    width: 28%;
+}
+
+.top{ 
+    text-decoration: underline;
+    
+}
+
+
+
+.mid{
+    background-color:#9db5a1;
+    color:#2e3d30;
+    align-items:center;
+    font-size:70px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display: flex;
+    justify-content: center;
+}
+.aboutme{
+    border:1px solid black;   
+}
