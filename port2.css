@@ -30,3 +30,8 @@ body{
 .topp{
     padding: 30px;
 }
+
+#aboutme {
+    font-family: 'Poiret One', cursive;
+   text-align: center;
+}
