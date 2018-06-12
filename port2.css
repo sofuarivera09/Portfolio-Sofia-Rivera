@@ -16,3 +16,17 @@ body{
     justify-content: center;
     font-size:30;
 }
+
+.row{   
+
+    background-color:#59685c;
+    color:#c5dbca;
+    font-size:30px;
+   font-family: 'Poiret One', cursive;
+   text-align: center;
+   font-weight: bold
+}
+
+.topp{
+    padding: 30px;
+}
