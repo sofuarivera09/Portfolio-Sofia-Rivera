@@ -1,8 +1,12 @@
-h1{   
+#title{   
     background-color:#59685c;
     color:#c5dbca;
     font-size:30px;
    font-family: 'Poiret One', cursive;
    text-align: center;
    font-weight: bold
+}
+
+body{
+    background-color: #9db5a1;
 }
